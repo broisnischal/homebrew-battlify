@@ -1,8 +1,8 @@
 cask "battlify" do
-  version "0.8.1"
-  sha256 "91eab64016d3b5072b15394ea6d55fbc53911d0eaebd53b134673078273a032d"
+  version "0.8.2"
+  sha256 "b4be90556a93b42b2042b501fe84f5edcf078f18f509247b6bfd192f76aad2e7"
 
-  url "https://github.com/broisnischal/battlify/releases/download/v0.8.1/Battlify-0.8.1.dmg"
+  url "https://github.com/broisnischal/battlify/releases/download/v0.8.2/Battlify-0.8.2.dmg"
   name "Battlify"
   desc "Menu bar battery saver and charge limiter for Apple Silicon Macs"
   homepage "https://github.com/broisnischal/battlify"
