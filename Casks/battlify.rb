@@ -1,6 +1,6 @@
 cask "battlify" do
   version "0.9.2"
-  sha256 "ab10fa99a834706c156255b48204a9c76dda45a46b009f05bd069541d226dfcb"
+  sha256 "42e724016690bf1692b1f7ac7be980f8d1727e60673a48e8489a640635032249"
 
   url "https://github.com/broisnischal/battlify/releases/download/v0.9.2/Battlify-0.9.2.dmg"
   name "Battlify"
